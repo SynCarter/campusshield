@@ -32,3 +32,12 @@ Students often hesitate to report issues like harassment, ragging, or discrimina
 ```bash
 git clone https://github.com/your-username/campusshield.git
 cd campusshield
+```
+## 📌 Future Improvements
+- Email alert system for urgent reports
+- Admin dashboard with filters
+- Google Sheets integration
+- Deploy on Streamlit Cloud
+
+## 📄 License
+MIT License – feel free to use and build upon this project.
