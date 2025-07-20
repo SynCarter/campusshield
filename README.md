@@ -30,7 +30,7 @@ Students often hesitate to report issues like harassment, ragging, or discrimina
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/campusshield.git
+git clone https://github.com/SynCarter/campusshield.git
 cd campusshield
 ```
 ## 📌 Future Improvements
