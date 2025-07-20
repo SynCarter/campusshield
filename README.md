@@ -28,6 +28,8 @@ Students often hesitate to report issues like harassment, ragging, or discrimina
 ![CampusShield Screenshot](Screenshot.png)
 ## 🚀 How to Run
 
+🔗 [Try the App Live](https://campusshield.streamlit.app/)
+
 1. Clone this repo:
 ```bash
 git clone https://github.com/SynCarter/campusshield.git
