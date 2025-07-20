@@ -24,6 +24,8 @@ Students often hesitate to report issues like harassment, ragging, or discrimina
 - Recent complaint viewer (anonymized)
 - Auto-creates storage file if missing
 
+## 🖼️ Demo
+![CampusShield Screenshot](Screenshot.png)
 ## 🚀 How to Run
 
 1. Clone this repo:
